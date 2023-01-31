@@ -2,8 +2,7 @@
 
 ##### Run with docker
 
-```
-git clone https://github.com/s4kibs4mi/restful_assessment.git
+```git remote add origin https://github.com/arafatr234/restful_assesment.git
 ```
 Move to root of project and execute,
 ```
@@ -16,14 +15,14 @@ docker run -p 8080:4567 repository_name:tag_name
 
 Or get it from docker hub,
 ```
-docker pull sakibsami/restful_assessment:2.7
-docker run -p 8080:4567 sakibsami/restful_assessment:2.7
+docker pull arafatr234/restful_assessment:2.7
+docker run -p 8080:4567 arafatr234/restful_assessment:2.7
 ```
 
 ##### Run with jar
 
 Install java in your system
-[Download JAR from here](https://github.com/s4kibs4mi/restful_assessment/releases/download/1.3/restful_assessment-1.3.jar)
+[Download JAR from here](https://github.com/arafatr234/restful_assessment/releases/download/1.3/restful_assessment-1.3.jar)
 
 then execute 
 
